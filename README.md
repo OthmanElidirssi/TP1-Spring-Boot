@@ -9,12 +9,9 @@
   # ByYear Service:
     ![byYear](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/808d326a-d01a-4fc5-8d10-be386206cc42)
   # Delete Service:
-    # Before:
-      ![before](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/774c6511-8c23-43e3-9002-b0a58f5e382f)
-    # Delete Request:
-      ![delete](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/4958a297-c570-4c29-9a73-ac7a40f1da17)
-    # After:
-      ![after](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/b6c4e0e7-9797-4922-8bab-d4fe3d2f8173)
+    ![before](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/774c6511-8c23-43e3-9002-b0a58f5e382f)
+    ![delete](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/4958a297-c570-4c29-9a73-ac7a40f1da17)
+    ![after](https://github.com/OthmanElidirssi/TP1-Spring-Boot/assets/132103080/b6c4e0e7-9797-4922-8bab-d4fe3d2f8173)
 
 
 
